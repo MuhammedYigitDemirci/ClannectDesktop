@@ -1,9 +1,0 @@
-node_modules/
-dist/
-build/
-.next/
-out/
-*.log
-*.exe
-*.asar
-.env
